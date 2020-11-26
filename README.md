@@ -1,0 +1,1 @@
+This is Ignas Dirma first git project!
